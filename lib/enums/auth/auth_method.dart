@@ -1,0 +1,4 @@
+enum EAuthMethod {
+  google,
+  microsoft,
+}

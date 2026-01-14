@@ -1,0 +1,1 @@
+typedef IsLoading = String;
